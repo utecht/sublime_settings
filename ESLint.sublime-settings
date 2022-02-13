@@ -1,0 +1,6 @@
+{
+	"node_path": "/usr/local/bin",
+	"node_modules_path": "/Users/joseph/work/prism-components/node_modules",
+	"config_file": "/Users/joseph/work/prism-components/.eslintrc.js",
+	"resolve-plugins-relative-to": "/Users/joseph/work/prism-components/"
+}

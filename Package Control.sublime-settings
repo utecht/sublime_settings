@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Babel",
+		"Django Syntax",
+		"Emmet",
+		"ESLint-Formatter",
+		"Git",
+		"Package Control",
+		"phpfmt",
+		"python-black",
+		"rainbow_csv",
+		"SCSS",
+		"Zen Tabs",
+	],
+	"in_process_packages":
+	[
+	],
+}
